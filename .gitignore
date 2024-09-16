@@ -1,3 +1,6 @@
+# ignore files in virtual environment
+langc/
+
 .ipynb_checkpoints/
 
 .idea/
